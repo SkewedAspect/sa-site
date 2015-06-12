@@ -2,6 +2,17 @@
  * Globals
  */
 
+/* Slack Button */
+.btn-slack {
+	background-color: #563c82;
+	color: #fff;
+}
+
+.btn-slack:hover {
+	background-color: #4a3176;
+	color: #fff;
+}
+
 /* Links */
 a,
 a:focus,
