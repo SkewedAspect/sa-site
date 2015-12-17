@@ -13,6 +13,26 @@
 	color: #fff;
 }
 
+.btn-rchat {
+  background-color: rgb(3, 168, 244);
+  color: #fff;
+}
+
+.btn-rchat:hover {
+  background-color: rgb(3, 148, 220);
+  color: #fff;
+}
+
+.rocket-logo {
+  display: inline-block;
+  vertical-align: middle;
+  width: 22px;
+  height: 22px;
+  background-image: url(/images/rocket-chat.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
 /* Links */
 a,
 a:focus,
